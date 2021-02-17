@@ -2,7 +2,7 @@
 # Bill Chappell 2020
 # This was a simple script to export some fields out of a Postgres/PostGIS 
 # Database. My X,Y coordinates were in a geog field and I used the ST_X & ST_Y functions.
-# This creates a simple Point eoJSON file. Some of the code was found at
+# This creates a simple Point GeoJSON file. Some of the code was found at
 # https://geoffboeing.com/2015/10/exporting-python-data-geojson
 
 import psycopg2
