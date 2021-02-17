@@ -1,3 +1,7 @@
+# Bill Chappell 2020
+# This was a simple script to export some fields out of a Postgres/PostGIS 
+# Database for a selected record based on an address.
+
 #pip install psycopg2
 import psycopg2
 
